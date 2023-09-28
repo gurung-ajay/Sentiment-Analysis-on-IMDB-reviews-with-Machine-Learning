@@ -14,4 +14,5 @@ The models I created are: MultinominalNB, LogisticRegression, KNeighborsClassifi
 * You will see that the terminal will give you an ip address. Copy the ip address and run it in your browser.
 
 It should look like this:
-!gdown https://github.com/gurung-ajay/Sentiment-Analysis-on-IMDB-reviews-with-Machine-Learning/issues/1#issue-1917265704
+![ui](https://github.com/gurung-ajay/Sentiment-Analysis-on-IMDB-reviews-with-Machine-Learning/assets/135496373/2324d7ff-0379-493e-94ee-bd20baebf329)
+
