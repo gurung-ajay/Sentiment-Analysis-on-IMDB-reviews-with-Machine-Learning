@@ -3,3 +3,5 @@
 * Then I compared the models performance to find the best one.
 * I then exported that model using pickle.
 * Finally, I made a simple UI with streamlit to provide an interface to allow users to input new data and classify them.
+
+The models I created are: MultinominalNB, LogisticRegression, KNeighborsClassifier and RandomForestClassifier
