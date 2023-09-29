@@ -6,7 +6,7 @@
 
 The models I created are: MultinominalNB, LogisticRegression, KNeighborsClassifier and RandomForestClassifier
 
-Tools used: Python, Pandas, Matplotlib, Scikit Learn, NLTK, Pickle
+Tools used: Python, Pandas, Matplotlib, Scikit Learn, NLTK, Pickle, Streamlit
 
 ## To run the streamplit app:
 * Download the pickle file and ui.py and put them in same folder.
