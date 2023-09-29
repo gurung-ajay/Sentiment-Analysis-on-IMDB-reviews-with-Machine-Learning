@@ -5,7 +5,8 @@
 * Finally, I made a simple UI with streamlit to provide an interface to allow users to insert text and classify them.
 
 The models I created are: MultinominalNB, LogisticRegression, KNeighborsClassifier and RandomForestClassifier
-Tools used: Python, Pandas, Matplotlib, Scikit Learn
+
+Tools used: Python, Pandas, Matplotlib, Scikit Learn, NLTK, Pickle
 
 ## To run the streamplit app:
 * Download the pickle file and ui.py and put them in same folder.
