@@ -10,7 +10,7 @@ After evaluation, Logistic Regression emerged to be the best performing model wi
 
 Tools used: Python, Pandas, Matplotlib, Scikit Learn, NLTK, Pickle, Streamlit
 
-##This is how the UI looks:
+## This is how the UI looks:
 ![ui](https://github.com/gurung-ajay/Sentiment-Analysis-on-IMDB-reviews-with-Machine-Learning/assets/135496373/2324d7ff-0379-493e-94ee-bd20baebf329)
 
 ## To run the streamplit app:
