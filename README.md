@@ -10,13 +10,15 @@ After evaluation, Logistic Regression emerged to be the best performing model wi
 
 Tools used: Python, Pandas, Matplotlib, Scikit Learn, NLTK, Pickle, Streamlit
 
+##This is how the UI looks:
+![ui](https://github.com/gurung-ajay/Sentiment-Analysis-on-IMDB-reviews-with-Machine-Learning/assets/135496373/2324d7ff-0379-493e-94ee-bd20baebf329)
+
 ## To run the streamplit app:
 * Download the pickle file and ui.py and put them in same folder.
 * Open the folder with compiler like VisualStudioCode.
 * Now open ui.py from the directory.
 * Open the terminal and type: streamlit run ui.py
-* You will see that the terminal will give you an ip address. Copy the ip address and run it in your browser.
+* You will see that the terminal will give you an ip address. Copy the ip address and run it in your browser. It should open the UI.
 
-It should look like this:
-![ui](https://github.com/gurung-ajay/Sentiment-Analysis-on-IMDB-reviews-with-Machine-Learning/assets/135496373/2324d7ff-0379-493e-94ee-bd20baebf329)
+
 
