@@ -6,6 +6,8 @@
 
 The models I created are: MultinominalNB, LogisticRegression, KNeighborsClassifier and RandomForestClassifier
 
+After evaluation, Logistic Regression emerged to be the best performing model with cross validation score of 86.74%
+
 Tools used: Python, Pandas, Matplotlib, Scikit Learn, NLTK, Pickle, Streamlit
 
 ## To run the streamplit app:
