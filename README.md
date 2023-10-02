@@ -16,6 +16,8 @@ When you enter the movie review in the text box and press the button 'Analyze Se
 
 
 ![xg8p5mro](https://github.com/gurung-ajay/Sentiment-Analysis-on-IMDB-reviews-with-Machine-Learning/assets/135496373/ecef0e8c-7d66-44be-91c0-2baf8e377acd)
+![66nczmer](https://github.com/gurung-ajay/Sentiment-Analysis-on-IMDB-reviews-with-Machine-Learning/assets/135496373/d5bfe85f-299d-4ac0-aefc-79c1e5dbdbac)
+
 
 ## To run the streamplit app:
 * Download the pickle file and ui.py and put them in same folder.
