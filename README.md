@@ -15,7 +15,7 @@ Tools used: Python, Pandas, Matplotlib, Scikit Learn, NLTK, Pickle, Streamlit
 When you enter the movie review in the text box and press the button 'Analyze Sentiment', it will print whether the review is positive or negative.
 
 
-![prediction](https://github.com/gurung-ajay/Sentiment-Analysis-on-IMDB-reviews-with-Machine-Learning/assets/135496373/d44db32b-7271-4ea1-8e10-27ef6b00f6ed)
+![xg8p5mro](https://github.com/gurung-ajay/Sentiment-Analysis-on-IMDB-reviews-with-Machine-Learning/assets/135496373/ecef0e8c-7d66-44be-91c0-2baf8e377acd)
 
 ## To run the streamplit app:
 * Download the pickle file and ui.py and put them in same folder.
