@@ -11,7 +11,7 @@ After evaluation, Logistic Regression emerged to be the best performing model wi
 Tools used: Python, Pandas, Matplotlib, Scikit Learn, NLTK, Pickle, Streamlit
 
 ## This is how my app looks:
-![ui](https://github.com/gurung-ajay/Sentiment-Analysis-on-IMDB-reviews-with-Machine-Learning/assets/135496373/2324d7ff-0379-493e-94ee-bd20baebf329)
+![qlkf8xe5](https://github.com/gurung-ajay/Sentiment-Analysis-on-IMDB-reviews-with-Machine-Learning/assets/135496373/071c9470-37f2-4831-b1f9-3ed4283d3892)
 When you enter the movie review in the text box and press the button 'Analyze Sentiment', it will print whether the review is positive or negative.
 
 
