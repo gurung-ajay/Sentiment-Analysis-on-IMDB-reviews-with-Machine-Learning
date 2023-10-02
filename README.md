@@ -13,6 +13,8 @@ Tools used: Python, Pandas, Matplotlib, Scikit Learn, NLTK, Pickle, Streamlit
 ## This is how my app looks:
 ![ui](https://github.com/gurung-ajay/Sentiment-Analysis-on-IMDB-reviews-with-Machine-Learning/assets/135496373/2324d7ff-0379-493e-94ee-bd20baebf329)
 When you enter the movie review in the text box and press the button 'Analyze Sentiment', it will print whether the review is positive or negative.
+
+
 ![prediction](https://github.com/gurung-ajay/Sentiment-Analysis-on-IMDB-reviews-with-Machine-Learning/assets/135496373/d44db32b-7271-4ea1-8e10-27ef6b00f6ed)
 
 ## To run the streamplit app:
