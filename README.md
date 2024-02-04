@@ -1,18 +1,13 @@
 # Sentiment-Analysis-on-IMDB-reviews-with-Machine-Learning
-* In this project, I built classical Machine Learning models that trains on data about IMDB reviews which are classified as positive or negative.
-* Then I compared the models performance to find the best one.
-* I then exported that model using pickle.
-* Finally, I made a simple UI with streamlit to provide an interface to allow users to insert text and classify them.
+In this project, I developed classical Machine Learning models designed to analyze IMDB reviews, categorizing them as either positive or negative sentiments. Subsequently, a comprehensive performance comparison was conducted among the models, revealing Logistic Regression as the top-performing model with a notable cross-validation score of 86.74%. The chosen model was serialized using Pickle for seamless integration and deployment. The project culminated in the creation of a user-friendly interface using Streamlit, providing users with the capability to input text and receive sentiment classifications.
 
-The models I created are: MultinominalNB, LogisticRegression, KNeighborsClassifier and RandomForestClassifier
+Key Models: Multinomial Naive Bayes, Logistic Regression, KNeighbors Classifier, RandomForest Classifier
 
-After evaluation, Logistic Regression emerged to be the best performing model with cross validation score of 86.74%
+Technologies Utilized: Python, Pandas, Matplotlib, Scikit Learn, NLTK, Pickle, Streamlit
 
-Tools used: Python, Pandas, Matplotlib, Scikit Learn, NLTK, Pickle, Streamlit
-
-## This is how my app looks:
+## UI:
 ![qlkf8xe5](https://github.com/gurung-ajay/Sentiment-Analysis-on-IMDB-reviews-with-Machine-Learning/assets/135496373/071c9470-37f2-4831-b1f9-3ed4283d3892)
-When you enter the movie review in the text box and press the button 'Analyze Sentiment', it will print whether the review is positive or negative.
+When the user enters the movie review in the text box and press the button 'Analyze Sentiment', it will print whether the review is positive or negative.
 
 
 ![xg8p5mro](https://github.com/gurung-ajay/Sentiment-Analysis-on-IMDB-reviews-with-Machine-Learning/assets/135496373/ecef0e8c-7d66-44be-91c0-2baf8e377acd)
@@ -20,11 +15,13 @@ When you enter the movie review in the text box and press the button 'Analyze Se
 
 
 ## To run the streamplit app:
-* Download the pickle file and ui.py and put them in same folder.
-* Open the folder with compiler like VisualStudioCode.
-* Now open ui.py from the directory.
-* Open the terminal and type: streamlit run ui.py
-* You will see that the terminal will give you an ip address. Copy the ip address and run it in your browser. It should open the UI.
+Prerequisites: Ensure that you have the Python libraries NLTK, Pickle, and Streamlit installed on your device.
 
+To run the Streamlit app:
+
+* Download the pickle file and 'ui.py', placing them in the same folder.
+* Open the folder directory using the command prompt (cmd).
+* Enter the command 'streamlit run ui.py'.
+* Open the generated IP address from the command prompt in your browser to access the UI.
 
 
