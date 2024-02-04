@@ -19,9 +19,9 @@ Prerequisites: Ensure that you have the Python libraries NLTK, Pickle, and Strea
 
 To run the Streamlit app:
 
-* Download the pickle file and 'ui.py', placing them in the same folder.
-* Open the folder directory using the command prompt (cmd).
-* Enter the command 'streamlit run ui.py'.
-* Open the generated IP address from the command prompt in your browser to access the UI.
+1. Download the pickle file and 'ui.py', placing them in the same folder.
+2. Open the folder directory using the command prompt (cmd).
+3. Enter the command 'streamlit run ui.py'.
+4. 4. Open the generated IP address from the command prompt in your browser to access the UI.
 
 
