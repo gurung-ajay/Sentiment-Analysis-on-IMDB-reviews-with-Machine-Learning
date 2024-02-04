@@ -22,6 +22,6 @@ To run the Streamlit app:
 1. Download the pickle file and 'ui.py', placing them in the same folder.
 2. Open the folder directory using the command prompt (cmd).
 3. Enter the command 'streamlit run ui.py'.
-4. 4. Open the generated IP address from the command prompt in your browser to access the UI.
+4. Open the generated IP address from the command prompt in your browser to access the app.
 
 
